@@ -8,3 +8,5 @@ The plane passes and randomly throws Pocahontas once in a while, which performs 
 The player's role is to catch as many Pocahontases as possible.
 Each Pocahontas rescue will add 10 points to the player.
 Each fall of Pocahontas into the water will result in the loss of one life point.
+
+Hope you'll enjoy
